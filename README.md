@@ -1,5 +1,5 @@
 # WinMQTTHub
-###Control your Windows box over MQTT!
+### Control your Windows box over MQTT!
 
 Enterprisecoding WinMQTTHub is an application/service/library which allows you to remotely control your Windows system over MQTT.
 
@@ -12,7 +12,7 @@ WinMQTT consist of tree main components;
 </table>
 
 
-##Configuration
+## Configuration
 Hub application uses following parameters;
 <table>
 <tr><th>Property</th><th>Description</th><th>Default</th></tr>
@@ -25,5 +25,7 @@ Hub application uses following parameters;
 <tr><td> ModuleAssemblyPattern </td><td> Assembly search pattern for addon things. </td><td> *.*Things.dll </td></tr>
 </table>
 
-####Note
+Usage and development details can be found on [project wiki](https://github.com/fatihboy/WinMQTTHub/wiki)
+
+#### Note
 Application icons made [byPixel Buddha](http://www.flaticon.com/authors/pixel-buddha) from [www.flaticon.com](http://www.flaticon.com) is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/)
