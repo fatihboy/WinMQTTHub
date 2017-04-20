@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinMQTTHub.Core", "WinMQTTHub.Core\WinMQTTHub.Core.csproj", "{592C16DC-F1E3-4D80-9131-54EF53CE6963}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinMQTTHub.Service", "WinMQTTHub.Service\WinMQTTHub.Service.csproj", "{E6075F04-A282-4752-B179-FB1E9E872C05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinMQTTHub.SystemThings", "WinMQTTHub.SystemThings\WinMQTTHub.SystemThings.csproj", "{B747EF79-5DBD-41D1-8FBC-1F651985B85A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinMQTTHub.DesktopThings", "WinMQTTHub.DesktopThings\WinMQTTHub.DesktopThings.csproj", "{DF736774-A820-4C3D-B5A2-2F88B313DA88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinMQTTHub.App", "WinMQTTHub.App\WinMQTTHub.App.csproj", "{82C857E9-8C5A-40E6-A552-20B94400A980}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E467CBC2-11C3-4910-8402-C96B5EF8BADD}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{592C16DC-F1E3-4D80-9131-54EF53CE6963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{592C16DC-F1E3-4D80-9131-54EF53CE6963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{592C16DC-F1E3-4D80-9131-54EF53CE6963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{592C16DC-F1E3-4D80-9131-54EF53CE6963}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6075F04-A282-4752-B179-FB1E9E872C05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6075F04-A282-4752-B179-FB1E9E872C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6075F04-A282-4752-B179-FB1E9E872C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6075F04-A282-4752-B179-FB1E9E872C05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B747EF79-5DBD-41D1-8FBC-1F651985B85A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B747EF79-5DBD-41D1-8FBC-1F651985B85A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B747EF79-5DBD-41D1-8FBC-1F651985B85A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B747EF79-5DBD-41D1-8FBC-1F651985B85A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF736774-A820-4C3D-B5A2-2F88B313DA88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF736774-A820-4C3D-B5A2-2F88B313DA88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF736774-A820-4C3D-B5A2-2F88B313DA88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF736774-A820-4C3D-B5A2-2F88B313DA88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82C857E9-8C5A-40E6-A552-20B94400A980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82C857E9-8C5A-40E6-A552-20B94400A980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82C857E9-8C5A-40E6-A552-20B94400A980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82C857E9-8C5A-40E6-A552-20B94400A980}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
