@@ -1,0 +1,4 @@
+language: csharp
+solution: Enterprisecoding.WinMQTTHub.sln
+script:
+  - xbuild /p:Configuration=Release Enterprisecoding.WinMQTTHub.sln
